@@ -1,0 +1,6 @@
+tensorflow
+numpy
+faker
+tqdm
+babel
+matplotlib
