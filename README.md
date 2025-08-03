@@ -1,4 +1,4 @@
-# Attention-Based Neural Machine Translation 🌍🧠
+# Attention-Based Neural Machine Translation
 
 This project implements a **Neural Machine Translation (NMT)** system using the **Bahdanau-style attention mechanism**. The model is designed to learn alignment between input and output sequences dynamically, leading to improved translation performance and interpretability.
 
